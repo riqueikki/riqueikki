@@ -1,37 +1,47 @@
 ## Hi there 👋
 
-# 💾 O que é um Commit no GitHub?
+# Henrique Pereira Brandão | Web Developer & Educator
 
-Um **commit** é como um "salvar" inteligente no controle de versão.  
-Ele registra as mudanças feitas no código, quem fez, quando fez e o motivo.
+## 🇧🇷 Sobre mim (Português)
+
+Sou professor do **Ensino Fundamental 1** no Brasil, com diversas especializações no Ensino Superior:  
+- Tecnologias Aplicadas à Educação;  
+- Coordenação Pedagógica;  
+- Docência do Ensino Superior;  
+- Atualmente cursando Educação Especial & Inclusiva.
+
+Além disso, sou Técnico em Redes e desenvolvedor web em constante aprendizado.  
+Atuo como implementador e desenvolvedor focado em soluções web, com experiência em front-end e back-end.
+
+🎯 **Objetivos futuros:**  
+- Migrar para desenvolvimento back-end avançado;  
+- Trabalhar com as tecnologias mais modernas em T.I e Análise e Desenvolvimento de Sistemas (ADS);  
+- Contribuir para projetos inovadores e impactantes.
+
+## 🇺🇸 About me (English)
+
+I am a teacher for **Elementary School (Fundamental Education 1)** in Brazil, with several higher education specializations:  
+- Educational Technologies;  
+- Pedagogical Coordination;  
+- Higher Education Teaching;  
+- Currently studying Special & Inclusive Education.
+
+Additionally, I am a Network Technician and a web developer in continuous learning.  
+I work as an implementer and developer focused on web solutions, with experience in both front-end and back-end.
+
+🎯 **Future goals:**  
+- Transition to advanced back-end development;  
+- Work with cutting-edge technologies in IT and Systems Analysis and Development (ADS);  
+- Contribute to innovative and impactful projects.
 
 ---
 
-## 🧠 Conceito
-
-- Cada commit representa um **ponto na linha do tempo** do projeto.
-- Ele guarda o estado dos arquivos naquele momento.
-- Permite **voltar atrás** ou **comparar versões**.
+## 📫 Contato | Contact
 
 ---
 
-## 🛠️ Exemplo de uso no Git
+## 📫 Contato | Contact
 
-```bash
-git add index.html
-git commit -m "Adiciona parágrafo de boas-vindas"
-
-
-Depois clique em **“Commit changes”**.
-
+- Linkt.ee: https://linktr.ee/hpbrandao?fbclid=PAZXh0bgNhZW0CMTEAAaeFskvqUN1wvYVYPXpbtCdj28CGQQfBJplwqzLCt9n42GeC-f5LcVmjocKXhQ_aem_WTcjoqtGjOnXSEo5QweX0w
 ---
-
-### **3️⃣ (Opcional) Crie uma página pública com GitHub Pages**
-Se quiser transformar isso em uma **página web real**:
-
-1. Vá em **Settings → Pages**  
-2. Em **Branch**, selecione `main` e `/ (root)`  
-3. Clique em **Save**  
-
-Após alguns segundos, seu site estará online em um endereço como:  
 
