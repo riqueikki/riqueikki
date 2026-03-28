@@ -5,13 +5,17 @@
 ## 🇧🇷 Sobre mim (Português)
 
 Sou professor do **Ensino Fundamental 1** no Brasil, com diversas especializações no Ensino Superior:  
-- Tecnologias Aplicadas à Educação;  
-- Coordenação Pedagógica;  
-- Docência do Ensino Superior;  
-- Atualmente cursando Educação Especial & Inclusiva.
+  - Tecnologias Aplicadas à Educação;  
+  - Coordenação Pedagógica;  
+  - Docência do Ensino Superior;
+  - Educação Especial & Inclusiva;
+  - Atualmente cursando Libras
 
-Além disso, sou Técnico em Redes e desenvolvedor web em constante aprendizado.  
-Atuo como implementador e desenvolvedor focado em soluções web, com experiência em front-end e back-end.
+Além disso, sou Técnico em Redes e desenvolvedor web em constante aprendizado. Atuo como implementador e desenvolvedor focado em soluções web, com experiência em front-end e back-end.]
+  -HTML5
+  -CSS
+  -Javascript
+  
 
 🎯 **Objetivos futuros:**  
 - Migrar para desenvolvimento back-end avançado;  
@@ -23,8 +27,9 @@ Atuo como implementador e desenvolvedor focado em soluções web, com experiênc
 I am a teacher for **Elementary School (Fundamental Education 1)** in Brazil, with several higher education specializations:  
 - Educational Technologies;  
 - Pedagogical Coordination;  
-- Higher Education Teaching;  
-- Currently studying Special & Inclusive Education.
+- Higher Education Teaching;
+- Special & Inclusive Education;
+- Currently studying Libras.
 
 Additionally, I am a Network Technician and a web developer in continuous learning.  
 I work as an implementer and developer focused on web solutions, with experience in both front-end and back-end.
