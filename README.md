@@ -3,20 +3,18 @@
 # Henrique Pereira Brandão | Web Developer & Educator
 
 ## 🇧🇷 Sobre mim (Português)
+  - Pedagogo - Universidade Vale do Acaraú (2018 - 2022)
+      - Pós-Graduado nos seguintes segmentos (2022 - Atualmente): - **Tecnologias Aplicadas à Educação**; Coordenação Pedagógica; Docência do Ensino Superior;Educação Especial & Inclusiva e atualmente cursando Libras.
+        
+  - Técnico de Redes de Computadores  - Instituto Federal do Rio Grande do Norte - Polo de Parnamirim (2023 - 2025)
+    - Formação complementar nos seguintes segmentos: Programador Web e Administração de Banco de Dados. (2022 - 2025)
 
-Sou professor do **Ensino Fundamental 1** no Brasil, com diversas especializações no Ensino Superior:  
-  - Tecnologias Aplicadas à Educação;  
-  - Coordenação Pedagógica;  
-  - Docência do Ensino Superior;
-  - Educação Especial & Inclusiva;
-  - Atualmente cursando Libras
 
-Além disso, sou Técnico em Redes e desenvolvedor web em constante aprendizado. Atuo como implementador e desenvolvedor focado em soluções web, com experiência em front-end e back-end.]
-  -HTML5
-  -CSS
-  -Javascript
-  
-
+ ## Tecnoloógias 
+   - HTML, CSS e Javascript;
+   - Python
+   - C++
+ 
 🎯 **Objetivos futuros:**  
 - Migrar para desenvolvimento back-end avançado;  
 - Trabalhar com as tecnologias mais modernas em T.I e Análise e Desenvolvimento de Sistemas (ADS);  
