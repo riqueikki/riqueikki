@@ -10,7 +10,7 @@
     - Formação complementar nos seguintes segmentos: Programador Web e Administração de Banco de Dados. (2022 - 2025)
 
 
- ## Tecnoloógias 
+ ## Tecnologias 
    - HTML, CSS e Javascript;
    - Python
    - C++
