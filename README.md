@@ -11,9 +11,7 @@
 
 
  ## Tecnologias 
-   - HTML, CSS e Javascript;
-   - Python
-   - C++
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  
 🎯 **Objetivos futuros:**  
 - Migrar para desenvolvimento back-end avançado;  
