@@ -11,7 +11,7 @@
 
 
  ## Tecnologias 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,github,linux,powershell,py,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,git,github,vscode,linux,powershell)](https://skillicons.dev)
  
 🎯 **Objetivos futuros:**  
 - Migrar para desenvolvimento back-end avançado;  
