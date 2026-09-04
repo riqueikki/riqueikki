@@ -38,8 +38,6 @@ I work as an implementer and developer focused on web solutions, with experience
 ---
 
 ## 📫 Contato | Contact
-<img width="321" height="138" alt="image" src="https://github.com/user-attachments/assets/efd19bf5-9261-4e03-8346-0dd31f4ce486" />
-
 
 - Linkt.ee: https://linktr.ee/hpbrandao?fbclid=PAZXh0bgNhZW0CMTEAAaeFskvqUN1wvYVYPXpbtCdj28CGQQfBJplwqzLCt9n42GeC-f5LcVmjocKXhQ_aem_WTcjoqtGjOnXSEo5QweX0w
 ---
